@@ -1,0 +1,16 @@
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\bin\Debug\net5.0\deckOfCards.exe
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\bin\Debug\net5.0\deckOfCards.deps.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\bin\Debug\net5.0\deckOfCards.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\bin\Debug\net5.0\deckOfCards.runtimeconfig.dev.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\bin\Debug\net5.0\deckOfCards.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\bin\Debug\net5.0\ref\deckOfCards.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\bin\Debug\net5.0\deckOfCards.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\obj\Debug\net5.0\deckOfCards.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\obj\Debug\net5.0\deckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\obj\Debug\net5.0\deckOfCards.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\obj\Debug\net5.0\deckOfCards.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\obj\Debug\net5.0\deckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\obj\Debug\net5.0\deckOfCards.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\obj\Debug\net5.0\ref\deckOfCards.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\obj\Debug\net5.0\deckOfCards.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\deckOfCards\obj\Debug\net5.0\deckOfCards.genruntimeconfig.cache

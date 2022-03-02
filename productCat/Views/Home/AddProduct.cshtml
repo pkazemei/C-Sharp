@@ -1,0 +1,35 @@
+@model Product
+
+<div class="row">
+    <div class="col text-center">
+        <h3 class="mb-5">New Product</h3>
+
+        <form action="NewProduct" method="post">
+            <div class="form-group">
+                <label for="Name">Name</label>
+                <input asp-for="Name" class="form-control">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div>
+                <label for="Description">Description</label>
+                <input asp-for="Description" class="form-control">
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div>
+                <label for="Price">Price</label>
+                <input asp-for="Price" class="form-control">
+                <span asp-validation-for="Price" class="text-danger"></span>
+                <br>
+            </div>
+            <div>
+                <input type="submit" value="Create" class="btn btn-success">
+                
+            </div>
+
+        </form>
+
+    </div>
+    <div class="col">
+        <partial name="_AllProducts"></partial>
+    </div>
+</div>

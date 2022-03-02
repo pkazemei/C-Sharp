@@ -1,0 +1,16 @@
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\bin\Debug\net5.0\colPractice.exe
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\bin\Debug\net5.0\colPractice.deps.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\bin\Debug\net5.0\colPractice.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\bin\Debug\net5.0\colPractice.runtimeconfig.dev.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\bin\Debug\net5.0\colPractice.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\bin\Debug\net5.0\ref\colPractice.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\bin\Debug\net5.0\colPractice.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\obj\Debug\net5.0\colPractice.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\obj\Debug\net5.0\colPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\obj\Debug\net5.0\colPractice.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\obj\Debug\net5.0\colPractice.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\obj\Debug\net5.0\colPractice.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\obj\Debug\net5.0\colPractice.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\obj\Debug\net5.0\ref\colPractice.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\obj\Debug\net5.0\colPractice.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\colPractice\obj\Debug\net5.0\colPractice.genruntimeconfig.cache

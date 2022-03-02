@@ -1,0 +1,15 @@
+@model Category
+
+<h3 class="col mb-5">Existing Categories</h3>
+
+
+<div>
+    @{
+        foreach(Category c in ViewBag.AllCategories)
+        {
+        <ul>
+            <a href="categories/@c.CategoryId"><li>@c.Name</li></a>
+        </ul>
+        }
+    }
+</div>

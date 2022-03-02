@@ -1,0 +1,76 @@
+C:\Users\pkaze\Downloads\survey\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pkaze\Downloads\survey\bin\Debug\net5.0\appsettings.json
+C:\Users\pkaze\Downloads\survey\bin\Debug\net5.0\survey.exe
+C:\Users\pkaze\Downloads\survey\bin\Debug\net5.0\survey.deps.json
+C:\Users\pkaze\Downloads\survey\bin\Debug\net5.0\survey.runtimeconfig.json
+C:\Users\pkaze\Downloads\survey\bin\Debug\net5.0\survey.runtimeconfig.dev.json
+C:\Users\pkaze\Downloads\survey\bin\Debug\net5.0\survey.dll
+C:\Users\pkaze\Downloads\survey\bin\Debug\net5.0\ref\survey.dll
+C:\Users\pkaze\Downloads\survey\bin\Debug\net5.0\survey.pdb
+C:\Users\pkaze\Downloads\survey\bin\Debug\net5.0\survey.Views.dll
+C:\Users\pkaze\Downloads\survey\bin\Debug\net5.0\survey.Views.pdb
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.csproj.AssemblyReference.cache
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.AssemblyInfoInputs.cache
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.AssemblyInfo.cs
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.RazorAssemblyInfo.cache
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.RazorAssemblyInfo.cs
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\staticwebassets\survey.StaticWebAssets.Manifest.cache
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\staticwebassets\survey.StaticWebAssets.xml
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\scopedcss\bundle\survey.styles.css
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.TagHelpers.input.cache
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.TagHelpers.output.cache
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.RazorCoreGenerate.cache
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\Razor\Views\First\Index.cshtml.g.cs
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\Razor\Views\First\postPage.cshtml.g.cs
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.RazorTargetAssemblyInfo.cache
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.RazorTargetAssemblyInfo.cs
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.Views.pdb
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.dll
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\ref\survey.dll
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.pdb
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.genruntimeconfig.cache
+C:\Users\pkaze\Downloads\survey\obj\Debug\net5.0\survey.csproj.CopyComplete
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\bin\Debug\net5.0\appsettings.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\bin\Debug\net5.0\survey.exe
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\bin\Debug\net5.0\survey.deps.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\bin\Debug\net5.0\survey.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\bin\Debug\net5.0\survey.runtimeconfig.dev.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\bin\Debug\net5.0\survey.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\bin\Debug\net5.0\ref\survey.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\bin\Debug\net5.0\survey.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\bin\Debug\net5.0\survey.Views.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\bin\Debug\net5.0\survey.Views.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.RazorAssemblyInfo.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.RazorAssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\staticwebassets\survey.StaticWebAssets.Manifest.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\staticwebassets\survey.StaticWebAssets.xml
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\scopedcss\bundle\survey.styles.css
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.TagHelpers.input.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.TagHelpers.output.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.RazorCoreGenerate.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\Razor\Views\First\Index.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.RazorTargetAssemblyInfo.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.RazorTargetAssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.Views.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\ref\survey.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.genruntimeconfig.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\survey.csproj.CopyComplete
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\survey\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs

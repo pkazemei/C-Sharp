@@ -1,0 +1,16 @@
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\obj\Debug\net5.0\wizards.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\obj\Debug\net5.0\wizards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\obj\Debug\net5.0\wizards.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\obj\Debug\net5.0\wizards.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\obj\Debug\net5.0\wizards.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\bin\Debug\net5.0\wizards.exe
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\bin\Debug\net5.0\wizards.deps.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\bin\Debug\net5.0\wizards.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\bin\Debug\net5.0\wizards.runtimeconfig.dev.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\bin\Debug\net5.0\wizards.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\bin\Debug\net5.0\ref\wizards.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\bin\Debug\net5.0\wizards.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\obj\Debug\net5.0\wizards.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\obj\Debug\net5.0\ref\wizards.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\obj\Debug\net5.0\wizards.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\wizards\obj\Debug\net5.0\wizards.genruntimeconfig.cache

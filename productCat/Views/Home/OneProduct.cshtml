@@ -1,0 +1,43 @@
+@model Product
+
+@* //Product needs Model since we're not using viewbag *@
+<h3>@Model.Name</h3>
+<div class="row mb-5">
+    <div class="col mb-5">
+        <div class="d-flex flex-wrap">
+            <h5>Attached Categories</h5>
+            @{
+                foreach(Association a in Model.MyAssociation)
+                {
+                        <p>@a.Category.Name</p>
+                }
+            }
+        </div>
+
+        @* We took out partial because we don't want EVERY category *@
+
+        <form action="/NewCatAssoc" method="post" class="form-group">
+            <div>
+                <label for="CategoryId">Add category to product</label>
+                <select name="CategoryId">
+                    @{
+                        foreach(Category c in ViewBag.AllCategories)
+                        {
+                            if(!Model.MyAssociation.Any(s => s.CategoryId == c.CategoryId)){
+                                <option name="CategoryId" value="@c.CategoryId">@c.Name</option>
+                            }
+                            @* This section removes the already used categories *@
+                        }
+                    }
+                </select><br>
+            </div>
+            <input type="hidden" name="ProductId" value="@Model.ProductId">
+            <div>
+                @* These ID's set up the association form for easy insertion. They need names AND values *@
+                <input type="submit" value="Add" class="btn btn-info">
+            </div>
+
+        </form>
+
+    </div> 
+</div>

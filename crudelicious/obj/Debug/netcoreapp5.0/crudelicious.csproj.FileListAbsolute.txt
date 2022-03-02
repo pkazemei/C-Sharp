@@ -1,0 +1,105 @@
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.csproj.AssemblyReference.cache
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.AssemblyInfoInputs.cache
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.AssemblyInfo.cs
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.RazorAssemblyInfo.cache
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.RazorAssemblyInfo.cs
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\staticwebassets\crudelicious.StaticWebAssets.Manifest.cache
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\staticwebassets\crudelicious.StaticWebAssets.xml
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\scopedcss\bundle\crudelicious.styles.css
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.TagHelpers.input.cache
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.TagHelpers.output.cache
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.RazorCoreGenerate.cache
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\Razor\Views\Home\EditOne.cshtml.g.cs
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.RazorTargetAssemblyInfo.cache
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.RazorTargetAssemblyInfo.cs
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.dll
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\ref\crudelicious.dll
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.pdb
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\crudelicious.exe
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\crudelicious.deps.json
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\crudelicious.runtimeconfig.json
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\crudelicious.runtimeconfig.dev.json
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\crudelicious.dll
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\ref\crudelicious.dll
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\crudelicious.pdb
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\crudelicious.Views.dll
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\crudelicious.Views.pdb
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\MySqlConnector.dll
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\pkaze\Downloads\IceCreamDB\bin\Debug\netcoreapp5.0\Pomelo.JsonObject.dll
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.Views.pdb
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.csproj.CopyComplete
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\crudelicious.genruntimeconfig.cache
+C:\Users\pkaze\Downloads\IceCreamDB\obj\Debug\netcoreapp5.0\Razor\Views\Home\ViewOne.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\crudelicious.exe
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\crudelicious.deps.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\crudelicious.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\crudelicious.runtimeconfig.dev.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\crudelicious.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\ref\crudelicious.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\crudelicious.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\crudelicious.Views.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\crudelicious.Views.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\MySqlConnector.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\bin\Debug\netcoreapp5.0\Pomelo.JsonObject.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.RazorAssemblyInfo.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.RazorAssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\staticwebassets\crudelicious.StaticWebAssets.Manifest.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\staticwebassets\crudelicious.StaticWebAssets.xml
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\scopedcss\bundle\crudelicious.styles.css
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.TagHelpers.input.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.TagHelpers.output.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.RazorCoreGenerate.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\Razor\Views\Home\EditOne.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\Razor\Views\Home\ViewOne.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.RazorTargetAssemblyInfo.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.RazorTargetAssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.Views.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.csproj.CopyComplete
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\ref\crudelicious.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\crudelicious.genruntimeconfig.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\C#\crudelicious\obj\Debug\netcoreapp5.0\Razor\Views\Home\CreateOne.cshtml.g.cs

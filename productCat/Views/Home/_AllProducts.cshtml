@@ -1,0 +1,14 @@
+@model Product
+
+<h3 class="col mb-5">Existing Products</h3>
+
+<div>
+    @{
+        foreach(Product p in ViewBag.AllProducts)
+        {
+        <ul>
+            <a href="products/@p.ProductId"><li>@p.Name | @p.Price</li></a>
+        </ul>
+        }
+    }
+</div>

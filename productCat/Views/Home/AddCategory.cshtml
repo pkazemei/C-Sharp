@@ -1,0 +1,23 @@
+@model Category
+
+<div class="row">
+    <div class="col text-center">
+        <h3>New Category</h3>
+
+        <form action="NewCategory" method="post">
+            <div class="form-group">
+                <label for="Name">Name</label>
+                <input asp-for="Name" class="form-control"><br>
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div>
+                <input type="submit" value="Create" class="btn btn-info">
+            </div>
+
+        </form>
+
+    </div>
+    <div class="col">
+        <partial name="_AllCategories"></partial>
+    </div>
+</div>

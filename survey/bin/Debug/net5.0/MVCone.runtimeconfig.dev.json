@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\coderrata\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\coderrata\\.nuget\\packages"
+    ]
+  }
+}

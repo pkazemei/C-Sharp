@@ -1,0 +1,39 @@
+@model Category
+
+<h3>@Model.Name</h3>
+<div class="row mb-5">
+    <div class="col mb-5">
+        <div class="d-flex flex-wrap">
+            <h5>Attached Products</h5>
+            @{
+                foreach(Association a in Model.AssociatedBy)
+                {
+                        <p>@a.Product.Name</p>
+                }
+            }
+        </div>
+
+        <form action="/NewProdAssoc" method="post" class="form-group">
+            <div>
+                <label for="ProductId">Add product to a category</label>
+                <select name="ProductId">
+                    @{
+                        foreach(Product p in ViewBag.AllProducts)
+                        {
+                            if(!Model.AssociatedBy.Any(s => s.ProductId == p.ProductId)){
+                                <option name="ProductId" value="@p.ProductId">@p.Name</option>
+                            }
+
+                        }
+                    }
+                </select><br>
+            </div>
+            <input type="hidden" name="CategoryId" value="@Model.CategoryId">
+            <div>
+                <input type="submit" value="Add" class="btn btn-info">
+            </div>
+
+        </form>
+
+    </div>
+</div>

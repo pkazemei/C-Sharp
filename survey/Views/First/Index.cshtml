@@ -1,0 +1,61 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Survey
+
+    <h3>@ViewBag.title</h3>
+    <div class="container">
+        <form action="addInfo" method="post">
+            <div class="form-group-md">
+                <label for="name">Your Name:</label>
+                <input asp-for="Sname" name="Sname"><br>
+                <span asp-validation-for="Sname" class="text-danger"></span>
+            </div>
+                <label>Dojo Location:</label>
+            <div class="form-group-md">
+                <select asp-for="Slocation" name="Slocation"> //name and type have to be same as asp-for
+                    <option value="Miami">Miami</option>
+                    <option value="Puerto Rico">Puerto Rico</option>
+                    <option value="Bulgaria">Bulgaria</option>
+                    <option value="Iran">Iran</option>
+                </select><br>
+            </div>
+            <div class="form-group-md">
+                <label>Favorite Language:</label>
+                <select asp-for="Slanguage" name="Slanguage">
+                    <option value="csharp">C#</option>
+                    <option value="python">Python</option>
+                    <option value="React">React</option>
+                    <option value="javascript">JavaScript</option>
+                </select><br>
+            </div>
+            <div class="form-group-md">
+                <label>Comment (optional):</label>
+                <input asp-for="Scomments" name="Scomments"><br>
+                <span asp-validation-for="Scomments" class="text-danger"></span>
+            </div>
+            <div class="form-group-md">
+                <input class="btn btn-info" type="submit" value="Submit"><br>
+            </div>
+        </form><br>
+
+        <table class="table table-striped">
+            <tr>
+                <th>Name:</th>
+                <th>Location:</th>
+                <th>Language:</th>
+                <th>Comment:</th>
+            </tr>
+            @{
+                foreach(Survey s in ViewBag.allInfo){
+
+            <tr>
+                <td>@s.Sname</td>
+                <td>@s.Slocation</td>
+                <td>@s.Slanguage</td>
+                <td>@s.Scomments</td>
+            </tr>
+                }
+            }
+    </div>
